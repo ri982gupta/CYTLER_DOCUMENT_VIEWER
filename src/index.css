@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  background: none;
+  border: none;
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+button:hover {
+  text-decoration: none;
+}
+
+iframe {
+  margin-top: 20px;
+}
+
